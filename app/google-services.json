@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "97101987067",
+    "firebase_url": "https://inkubator-mobile.firebaseio.com",
+    "project_id": "inkubator-mobile",
+    "storage_bucket": "inkubator-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97101987067:android:9214f9968dcca72e",
+        "android_client_info": {
+          "package_name": "com.banisaleh.stmik.inkubatormobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97101987067-b4faopho63d75mr0foel5f3p18f5olr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.banisaleh.stmik.inkubatormobile",
+            "certificate_hash": "5c88d80842a80728a1eb61d93e06d8882af29af7"
+          }
+        },
+        {
+          "client_id": "97101987067-esiurkanhf9np8lir5mfelgro7n6iual.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApltp97xQFNUg1Bc5BirfncnZZ37Z8T2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97101987067-esiurkanhf9np8lir5mfelgro7n6iual.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
